@@ -1,0 +1,7 @@
+dist-newstyle/
+.hypothesis
+.stack-work/
+*~
+*.swp
+*.o
+experiments/
